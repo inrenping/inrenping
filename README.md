@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://i.incremental.icu/heart/svg?v=1" />
+      <img src="https://i.incremental.icu/heart/svg?v=2" />
     </td>
   </tr>
   <tr>
