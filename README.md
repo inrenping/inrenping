@@ -4,7 +4,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://i.incremental.icu/heart" target="_blank">
-        <img src="https://i.incremental.icu/heart/svg?v=2" />
+        <img src="https://i.incremental.icu/heart/svg?v=3" />
       </a>
     </td>
   </tr>
